@@ -1,0 +1,1 @@
+Found here: https://grahamrpugh.com/2024/05/05/cve-checks-using-sofa-and-jamf-pro.html
