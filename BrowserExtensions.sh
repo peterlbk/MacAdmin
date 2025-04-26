@@ -1,0 +1,1 @@
+Get this one from here: https://www.ninjaone.com/script-hub/list-browser-extentions-macos/

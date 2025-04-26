@@ -1,7 +1,7 @@
-#!/bin/bash
+#!/bin/sh
 
 # Check if app is installed
-APP="/Applications/$4"
+APP="/Applications/App Store.app"
 if [ -z "$APP" ]; then
     echo "<result>N/A</result>"
 else
