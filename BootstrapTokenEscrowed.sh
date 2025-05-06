@@ -9,3 +9,5 @@ else
 	result="NO"
 fi
 echo "<result>$result</result>"
+
+# may be extended with https://github.com/robjschroeder/Bootstrap-Token-Escrow
